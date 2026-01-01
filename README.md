@@ -23,7 +23,7 @@
 
 🖼️ You can find the output of the program on the image below 💁🏾‍♂️
 
-![HTML Image](https://github.com/Kirubel-Eshetu/media-repo/blob/main/book-information.png)
+![Book information prototype](https://github.com/Kirubel-Eshetu/media-repo/blob/main/book-information.png)
 
 ## 🎬 Movie_Info.cpp -> Sorting of Movie Information using Linked List
 🟠 A linked list is a linear data structure that consists of a sequence of nodes, each containing two fields: <br />
@@ -41,7 +41,7 @@
 
 🖼️ You can find the output of the program on the image below 💁🏾‍♂️
 
-![HTML Image](https://github.com/Kirubel-Eshetu/media-repo/blob/main/movie-information.png)
+![Movie information prototype](https://github.com/Kirubel-Eshetu/media-repo/blob/main/movie-information.png)
 
 ## 🎓 Student_Info.cpp -> Sorting and Searching of Student information
 🟠 The program contains an implementation of simple sorting and searching algorithms, concepts in data structure and algorithm (DSA). For sorting Bubble sort, Insertion sort and Selection sort were implmented and for searching Linear and Binary search were used. 
@@ -62,7 +62,7 @@ N.B: This project elaborates on the use of Simple sorting and searching algorith
 
 🖼️ You can find the output of the program on the image below 💁🏾‍♂️
 
-![HTML Image](https://github.com/Kirubel-Eshetu/media-repo/blob/main/student-information.png)
+![Student information prototype](https://github.com/Kirubel-Eshetu/media-repo/blob/main/student-information.png)
 
 
 
